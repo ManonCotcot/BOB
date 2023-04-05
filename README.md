@@ -22,3 +22,9 @@ The robot :
 
   * will contain a raspberry PI 4, and a STM32
   * will present a total of 3 servomotors ans 3 steppers
+
+
+
+
+here is the datasheet of the [driver](https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2225_Datasheet_Rev1.11.pdf) for the steppers.
+here is the datasheet of the [servomotors](https://emanual.robotis.com/docs/en/dxl/x/xl320/).
