@@ -42,8 +42,8 @@ The hardware part is composed by 5 main devices :
  * The power module
  * The driver module
 
-All those devices are placed in the robot bas and connected by cable to each other, and other to parts.  
-The Raspberry is needed here because offer wi-fi, bluetooth, serial connection, and good performances.  
+All those devices are placed in the robot base and connected by cable to each other, and to other parts.  
+The Raspberry is needed here because she offer wi-fi, bluetooth, serial connection, and good performances.  
 STM32 is used because of his great ability to real time work, which is better for motor control.  
 AC/DC converter take the 230V / 50Hz in input and comes out of 24V.  
 The power module take the 24V, and divide it to provide 12V, 7.4V, 5V, and 3.3V.  
