@@ -23,6 +23,12 @@ The robot :
   * will contain a raspberry PI 4, and a STM32
   * will present a total of 3 servomotors ans 3 steppers
 
+----------
+
+
+
+
+
 
 
 
