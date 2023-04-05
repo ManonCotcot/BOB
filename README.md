@@ -26,5 +26,5 @@ The robot :
 
 
 
-here is the datasheet of the [driver](https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2225_Datasheet_Rev1.11.pdf) for the steppers.
+here is the datasheet of the [driver](https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2225_Datasheet_Rev1.11.pdf) for the steppers.  
 here is the datasheet of the [servomotors](https://emanual.robotis.com/docs/en/dxl/x/xl320/).
